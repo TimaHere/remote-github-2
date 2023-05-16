@@ -7,5 +7,8 @@
     <body>
         <h1>Hello world!<h1>
             <p>Nama saya tima<p>
+                <ul>
+                    <li>satu</li>
+                    <li>dua</li>
     </body>
 </html>
